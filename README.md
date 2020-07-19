@@ -18,11 +18,7 @@
 
 ## Contact
 
-[Twitter](https://twitter.com/borjalofe)
-
-[GitHub](https://github.com/borjalofe)
-
-[LinkedIn](https://www.linkedin.com/in/borjalofe)
+[Twitter](https://twitter.com/borjalofe) | [GitHub](https://github.com/borjalofe) | [LinkedIn](https://www.linkedin.com/in/borjalofe)
 
 <!--
 **borjalofe/borjalofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
