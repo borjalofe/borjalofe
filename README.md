@@ -8,7 +8,7 @@
 
 * :computer: Working with Angular&PHP
 * :dart: Aiming at mastering TDD
-* :e-mail: Ask me about anything (I'll try to help) **[im@borjalofe.com](im@borjalofe.com)**
+* :e-mail: Ask me about anything (I'll try to help) at **[im@borjalofe.com](im@borjalofe.com)**
 
 ### Past occupations
 
