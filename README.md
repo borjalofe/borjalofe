@@ -16,6 +16,13 @@
 * Workflow automation with Google Apps Script
 * WordPress Valencia Co-organizer
 
+### Last activity
+
+| GitHub | Blog |
++---+---+
+|<!--START_SECTION:activity--><!--END_SECTION:activity--> | <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> |
+
 ## Contact
 
 [Twitter](https://twitter.com/borjalofe) | [GitHub](https://github.com/borjalofe) | [LinkedIn](https://www.linkedin.com/in/borjalofe)
