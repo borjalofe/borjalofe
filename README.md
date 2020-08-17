@@ -1,5 +1,3 @@
-<style>img{text-align: left;max-width: 26px;max-height: auto;}</style>
-
 # Hi, I'm Borja 👋
 
 👨‍🎓 I'm a Computer Engineer from the **[Technical University of Valencia](http://www.upv.es/index-en.html)**
@@ -20,7 +18,7 @@
 
 ## Contact me
 
-[<img alt="Borja LoFe's Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Borja LoFe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Borja LoFe's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## Tools I work with
