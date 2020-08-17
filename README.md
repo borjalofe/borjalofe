@@ -1,10 +1,4 @@
-<style>
-    img {
-        text-align: left;
-        max-width: 26px;
-        max-height: auto;
-    }
-</style>
+<style>img{text-align: left;max-width: 26px;max-height: auto;}</style>
 
 # Hi, I'm Borja 👋
 
