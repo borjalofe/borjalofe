@@ -47,7 +47,13 @@
 
 | WP Valencia |
 | :---------- |
-| <!-- WPVALENCIA:START --><!-- WPVALENCIA:END --> |
+| <!-- WPVALENCIA:START -->
+- [Piccia Neri, diseñadora](http://www.wpvalencia.org/piccia-neri-disenadora/)
+- [Entrevista a Xavier Barata](http://www.wpvalencia.org/entrevista-a-xavier-barata/)
+- [Resumen de la WordCamp London 2018](http://www.wpvalencia.org/resumen-de-la-wordcamp-london-2018/)
+- [[Charla] Anatomía de un Plugin de WordPress](http://www.wpvalencia.org/charla-anatomia-de-un-plugin-de-wordpress/)
+- [Entrevista a Manuel Salvador Lemos Foncubierta](http://www.wpvalencia.org/entrevista-manuel-salvador-lemos-foncubierta/)
+<!-- WPVALENCIA:END --> |
 
 <!--
 **borjalofe/borjalofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
