@@ -65,11 +65,12 @@ Here are some ideas to get you started:
 -->
 
 [community-website]: https://borjalofe.com
-[dev-webiste]: https://borjalofe.dev
+[dev-website]: https://borjalofe.dev
 [email]: im@borjalofe.com
 [github]: https://github.com/borjalofe
 [gitlab]: https://gitlab.com/borjalofe
 [instagram]: https://instagram.com/borjalofe
 [linkedin]: https://linkedin.com/in/borjalofe
 [twitter]: https://twitter.com/borjalofe
+[wordpress]: https://profiles.wordpress.org/borjalofe
 [youtube]: https://youtube.com/borjalofe

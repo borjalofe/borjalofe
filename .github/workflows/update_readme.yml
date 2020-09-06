@@ -6,17 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-latest-activity-on-github:
-    name: Update this repo's README with latest activity on GitHub
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-        name: Getting my README
-      - uses: jamesgeorge007/github-activity-readme@master
-        name: Posting latest GitHub activity in my README.md file
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   update-readme-with-posts-from-dev-blog:
     name: Update this repo's README with latest blog posts on borjalofe.com
     runs-on: ubuntu-latest
@@ -26,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         name: Posting latest blog activity in my README.md file
         with:
-          feed_list: "http://www.wpvalencia.org/author/borja-lopez/"
+          feed_list: "http://www.wpvalencia.org/author/borja-lopez/feed/"
           comment_tag_name: "WPVALENCIA"
