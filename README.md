@@ -43,11 +43,11 @@
 <br />
 <br />
 
-## Last activity
+## 📝 Lastest Posts
 
-| WP Valencia |
-| :---------- |
-| <!-- WPVALENCIA:START --><!-- WPVALENCIA:END --> |
+### WP Valencia
+
+<!-- WPVALENCIA:START --><!-- WPVALENCIA:END -->
 
 <!--
 **borjalofe/borjalofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
