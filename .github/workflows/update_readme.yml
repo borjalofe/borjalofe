@@ -12,14 +12,19 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        name: Getting my README
       - uses: jamesgeorge007/github-activity-readme@master
+        name: Posting latest GitHub activity in my README.md file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  update-readme-with-posts-from-community-blog:
+  update-readme-with-posts-from-dev-blog:
     name: Update this repo's README with latest blog posts on borjalofe.com
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        name: Getting my README
       - uses: gautamkrishnar/blog-post-workflow@master
+        name: Posting latest blog activity in my README.md file
         with:
-          feed_list: "https://borjalofe.com"
+          feed_list: "http://www.wpvalencia.org/author/borja-lopez/"
+          comment_tag_name: "WPVALENCIA"

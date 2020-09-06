@@ -45,9 +45,9 @@
 
 ## Last activity
 
-| GitHub | Blog |
-| :----- | :--- |
-|<!--START_SECTION:activity--><!--END_SECTION:activity--> | <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END --> |
+| WP Valencia |
+| :---------- |
+| <!-- WPVALENCIA:START --><!-- WPVALENCIA:END --> |
 
 <!--
 **borjalofe/borjalofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
