@@ -6,7 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-posts-from-dev-blog:
+  update-readme-with-latest-activity-on-github:
+    name: Update this repo's README with latest activity on GitHub
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  update-readme-with-posts-from-community-blog:
     name: Update this repo's README with latest blog posts on borjalofe.com
     runs-on: ubuntu-latest
     steps:
