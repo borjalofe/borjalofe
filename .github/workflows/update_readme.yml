@@ -20,6 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        name: Getting my README
       - uses: gautamkrishnar/blog-post-workflow@master
+        name: Posting latest blog activity in my README.md file
         with:
-          feed_list: "https://borjalofe.com"
+          feed_list: "http://www.wpvalencia.org/author/borja-lopez/feed/"
+          comment_tag_name: "WPVALENCIA"
