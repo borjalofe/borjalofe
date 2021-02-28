@@ -43,11 +43,16 @@
 <br />
 <br />
 
-## Last activity
+## ⚡ Recent Activity
 
-| GitHub | Blog |
-| :----- | :--- |
-|<!--START_SECTION:activity--><!--END_SECTION:activity--> | <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END --> |
+<!--START_SECTION:activity-->
+
+## 📝 Latest Posts
+
+### WP Valencia
+
+<!-- WPVALENCIA:START -- >
+< !-- WPVALENCIA:END -->
 
 <!--
 **borjalofe/borjalofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,11 +70,12 @@ Here are some ideas to get you started:
 -->
 
 [community-website]: https://borjalofe.com
-[dev-webiste]: https://borjalofe.dev
+[dev-website]: https://borjalofe.dev
 [email]: im@borjalofe.com
 [github]: https://github.com/borjalofe
 [gitlab]: https://gitlab.com/borjalofe
 [instagram]: https://instagram.com/borjalofe
 [linkedin]: https://linkedin.com/in/borjalofe
 [twitter]: https://twitter.com/borjalofe
+[wordpress]: https://profiles.wordpress.org/borjalofe
 [youtube]: https://youtube.com/borjalofe
