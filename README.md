@@ -2,21 +2,20 @@
 
 👨‍🎓 I'm a Computer Engineer from the **[Technical University of Valencia](http://www.upv.es/index-en.html)**
 
-👨‍🎓 Also a Data Science student trying to do my best between the [Open University of Catalonia](https://www.uoc.edu/portal/en/index.html) but currently thinking about changing from the career to a master.
+## 🙋‍♂️ About me
 
-## About me
+* 🔭 Working exclusively with Angular&PHP for the last 3 years
+* 🌱 Updating my dev experience with DDD, T&&C||R, Nx, Typescript and -yeah, you're reading it right- Angular
+  * 🎯 Build borjalofe.com as a Scully-based blog 
+* 📫 Ask me about anything (I'll try to help) at **[im@borjalofe.com][email]**
 
-* :computer: Working with Angular&PHP
-* :dart: Aiming at mastering TDD
-* :e-mail: Ask me about anything (I'll try to help) at **[im@borjalofe.com][email]**
-
-### Past occupations
+### 👨‍💼 Past occupations
 
 * Freelance WordPress dev
 * Workflow automation with Google Apps Script
 * WordPress Valencia Co-organizer
 
-## Contact me
+## 👋 Contact me
 
 [<img align="left" alt="Borja LoFe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Borja LoFe's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +23,7 @@
 <br />
 <br />
 
-## Tools I work with
+## 🛠 Tools I work with
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
