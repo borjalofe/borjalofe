@@ -14,13 +14,6 @@ INFP-T
 
 I can speak 🇪🇸 🇬🇧
 
-### Coming Updates
-
-Organizing my git repos -and trying to get them all into my GitHub account, but it’ll take some time XD-
-An Angular-Scully-based blog
-Nx-based DDD Projects
-Fighting for a chance to survive T&C|R
-
 ### Interests
 
 Open Source & Fair Use Software
@@ -33,14 +26,18 @@ D.E.A.L. (Timothy Ferriss - 4-hours workweek)
 * Workflow automation with Google Apps Script
 * WordPress Valencia Co-organizer
 
+## Coming Updates
+
+Organizing my git repos -and trying to get them all into my GitHub account, but it’ll take some time XD-
+An Angular-Scully-based blog
+Nx-based DDD Projects
+Fighting for a chance to survive T&C|R
+
 ## Wanna talk?
 
 [![Twitter Profile](images/twitter_22x22.png)][twitter]
 [![LinkedIn Profile](images/linkedin_22x22.png)][linkedin]
 [![Email Address](images/email_22x22.png)][email]
-
-<br />
-<br />
 
 ## 🛠 Tools I work with
 
