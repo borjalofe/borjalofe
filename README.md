@@ -4,10 +4,28 @@
 
 ## 🙋‍♂️ About me
 
-* 🔭 Working exclusively with Angular&PHP for the last 3 years
-* 🌱 Updating my dev experience with DDD, T&&C||R, Nx, Typescript and -yeah, you're reading it right- Angular
-  * 🎯 Build borjalofe.com as a Scully-based blog 
-* 📫 Ask me about anything (I'll try to help) at **[im@borjalofe.com][email]**
+CTO | 👨‍💻 AI developer
+Angular | 🐍 Python | PHP
+🦾 Automate: Do not do anything a machine can do for you
+
+🐺 Son of the Wolf Clan of Castrosanto
+
+INFP-T
+
+I can speak 🇪🇸 🇬🇧
+
+### Coming Updates
+
+Organizing my git repos -and trying to get them all into my GitHub account, but it’ll take some time XD-
+An Angular-Scully-based blog
+Nx-based DDD Projects
+Fighting for a chance to survive T&C|R
+
+### Interests
+
+Open Source & Fair Use Software
+The Answer to the Ultimate Question of Life, the Universe and Everything
+D.E.A.L. (Timothy Ferriss - 4-hours workweek)
 
 ### 👨‍💼 Past occupations
 
@@ -15,10 +33,11 @@
 * Workflow automation with Google Apps Script
 * WordPress Valencia Co-organizer
 
-## 👋 Contact me
+## Wanna talk?
 
-[<img align="left" alt="Borja LoFe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Borja LoFe's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter Profile](images/twitter.png)][twitter]
+[![LinkedIn Profile](images/linkedin.png)][linkedin]
+[![Email Address](images/email.png)][email]
 
 <br />
 <br />
@@ -39,43 +58,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
-<br />
-<br />
-
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
 ## 📝 Latest Posts
 
-### WP Valencia
-
-<!-- WPVALENCIA:START -->
-- [Piccia Neri, diseñadora](http://www.wpvalencia.org/piccia-neri-disenadora/)
-- [Entrevista a Xavier Barata](http://www.wpvalencia.org/entrevista-a-xavier-barata/)
-- [Resumen de la WordCamp London 2018](http://www.wpvalencia.org/resumen-de-la-wordcamp-london-2018/)
-- [[Charla] Anatomía de un Plugin de WordPress](http://www.wpvalencia.org/charla-anatomia-de-un-plugin-de-wordpress/)
-- [Entrevista a Manuel Salvador Lemos Foncubierta](http://www.wpvalencia.org/entrevista-manuel-salvador-lemos-foncubierta/)
-<!-- WPVALENCIA:END -->
-
-<!--
-**borjalofe/borjalofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [community-website]: https://borjalofe.com
 [dev-website]: https://borjalofe.dev
-[email]: im@borjalofe.com
+[email]: mailto:im@borjalofe.com
 [github]: https://github.com/borjalofe
 [gitlab]: https://gitlab.com/borjalofe
 [instagram]: https://instagram.com/borjalofe
