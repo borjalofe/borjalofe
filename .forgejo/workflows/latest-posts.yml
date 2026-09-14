@@ -1,0 +1,47 @@
+# Update README "Latest posts" from the blog content repo (Forgejo primary).
+# Push-mirror carries the commit to GitHub. Prefer this schedule over GH.
+name: latest-posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  latest-posts:
+    runs-on: docker
+    container:
+      image: docker.io/library/node:22-alpine
+    steps:
+      - name: Install git
+        run: apk add --no-cache git
+
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Checkout blog
+        uses: actions/checkout@v4
+        with:
+          repository: borja/blog
+          path: blog
+
+      - name: Update Latest posts
+        env:
+          POSTS_SOURCE: blog
+          BLOG_PATH: blog
+          POSTS_LANG: en
+          MAX_POSTS: "5"
+          LINK_MODE: github-blob
+        run: node scripts/update-latest-posts.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes"
+            exit 0
+          fi
+          git config user.name "latest-posts-bot"
+          git config user.email "latest-posts-bot@users.noreply.local"
+          git add README.md
+          git commit -m "Updated latest posts"
+          git push

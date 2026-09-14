@@ -1,73 +1,30 @@
-# Hi, I'm Borja 👋
+# Hi, I'm Borja
 
-👨‍🎓 I'm a Computer Engineer from the **[Technical University of Valencia](http://www.upv.es/index-en.html)**
+**CSSLP** · Product Engineer · **Security with integrated AI** (continuity, not a pivot)
 
-## 🙋‍♂️ About me
+> Automate the repeatable; integrate AI where judgment matters.
 
-CTO | 👨‍💻 AI developer
-Angular | 🐍 Python | PHP
-🦾 Automate: Do not do anything a machine can do for you
+Computer Engineer ([UPV](https://www.upv.es/)). I help product teams ship with **secure, auditable AI** in the pipeline — hooks, CI, SBOM, local LLM gateways when sovereignty matters.
 
-🐺 Son of the Wolf Clan of Castrosanto
+**Proof:** −37% dev · −27% ops · +20% tests · homelab BIP · Stack&Flow OSS
 
-INFP-T
+**Stack:** TypeScript · Astro · Vite · Docker · DevSecOps · Cursor with architectural review
 
-I can speak 🇪🇸 🇬🇧
+**Now:** Between roles · CCA-F ✓ · CSSLP (endorsement in progress) · homelab BIP + OSS
 
-### Interests
+## Where to look first
 
-Open Source & Fair Use Software
-The Answer to the Ultimate Question of Life, the Universe and Everything
-D.E.A.L. (Timothy Ferriss - 4-hours workweek)
+- **Homelab BIP** — self-hosted stack (Forgejo, Traefik, Nextcloud, local LLMs) as a sovereign lab; build-in-public on [borjalofe.com](https://borjalofe.com)
+- **[react-i18n-workshop](https://github.com/borjalofe/react-i18n-workshop)** — Stack&Flow workshop: i18n in Next.js with react-i18next
+- **[plop-pack-git-commit](https://github.com/borjalofe/plop-pack-git-commit)** — Plop pack for repeatable, reviewed git commits
 
-### 👨‍💼 Past occupations
+## Latest posts
 
-* Freelance WordPress dev
-* Workflow automation with Google Apps Script
-* WordPress Valencia Co-organizer
-
-## Coming Updates
-
-Organizing my git repos -and trying to get them all into my GitHub account, but it’ll take some time XD-
-An Angular-Scully-based blog
-Nx-based DDD Projects
-Fighting for a chance to survive T&C|R
+<!-- BLOG-POST-LIST:START -->
+- [Hello, content repo](https://github.com/borjalofe/blog/blob/main/content/posts/en/hello-content-repo.md) — 2026-09-14
+<!-- BLOG-POST-LIST:END -->
 
 ## Wanna talk?
 
-[![Twitter Profile](images/twitter_22x22.png)][twitter]
-[![LinkedIn Profile](images/linkedin_22x22.png)][linkedin]
-[![Email Address](images/email_22x22.png)][email]
-
-## 🛠 Tools I work with
-
-![Visual Studio Code](images/visual-studio-code_22x22.png)
-![HTML5](images/html5_22x22.png)
-![CSS3](images/css3_22x22.png)
-![Sass](images/sass_22x22.png)
-![JavaScript](images/javascript_22x22.png)
-![Angular](images/angular_22x22.png)
-![SQL](images/sql_22x22.png)
-![PHP](images/php_22x22.png)
-![MySQL](images/mysql_22x22.png)
-![Git](images/git_22x22.png)
-![GitHub](images/github_22x22.png)
-![Terminal](images/terminal_22x22.png)
-![Ubuntu](images/ubuntu_22x22.png)
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-
-## 📝 Latest Posts
-
-[community-website]: https://borjalofe.com
-[dev-website]: https://borjalofe.dev
-[email]: mailto:im@borjalofe.com
-[github]: https://github.com/borjalofe
-[gitlab]: https://gitlab.com/borjalofe
-[instagram]: https://instagram.com/borjalofe
-[linkedin]: https://linkedin.com/in/borjalofe
-[twitter]: https://twitter.com/borjalofe
-[wordpress]: https://profiles.wordpress.org/borjalofe
-[youtube]: https://youtube.com/borjalofe
+Valencia, Spain · ES / EN  
+[borjalofe.com](https://borjalofe.com) · [LinkedIn](https://www.linkedin.com/in/borjalofe) · [im@borjalofe.com](mailto:im@borjalofe.com)

@@ -1,0 +1,46 @@
+# Failover / portfolio signal for Latest posts.
+# Tipo 1: Forgejo is primary and push-mirrors here. Do not schedule a daily
+# commit on GitHub or it will fight the mirror — use workflow_dispatch when
+# the home runner is down. Switch POSTS_SOURCE=rss + RSS_URL when the site feed exists.
+name: latest-posts
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  latest-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Checkout blog
+        uses: actions/checkout@v4
+        with:
+          repository: borjalofe/blog
+          path: blog
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Latest posts
+        env:
+          POSTS_SOURCE: blog
+          BLOG_PATH: blog
+          POSTS_LANG: en
+          MAX_POSTS: "5"
+          LINK_MODE: github-blob
+        run: node scripts/update-latest-posts.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes"
+            exit 0
+          fi
+          git config user.name "latest-posts-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated latest posts"
+          git push
